@@ -20,9 +20,9 @@ title                    : "hihihi"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "asdfasdf"
-url                      : "https://MyeongHyunJeong.github.io"
+url                      : "https://myeonghyunjeong.github.io"
 baseurl                  : "/jmh1"
-repository               : "MyeongHyunJeong/jmh1"
+repository               : "myeonghyunjeong/jmh1"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
