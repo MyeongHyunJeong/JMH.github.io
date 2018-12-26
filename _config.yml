@@ -22,7 +22,7 @@ name                     : "Your Name"
 description              : "asdfasdf"
 url                      : "https://MyeongHyunJeong.github.io"
 baseurl                  : "/jmh1"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "MyeongHyunJeong/jmh1"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
